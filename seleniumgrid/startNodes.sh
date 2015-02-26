@@ -1,0 +1,10 @@
+docker run -d --link selenium-hub:hub hvdb/docker-node-chrome-10:latest
+docker run -d --link selenium-hub:hub hvdb/docker-node-chrome-10:latest
+docker run -d --link selenium-hub:hub hvdb/docker-node-chrome-10:latest
+docker run -d --link selenium-hub:hub hvdb/docker-node-chrome-10:latest
+docker run -d --link selenium-hub:hub hvdb/docker-node-chrome-10:latest
+docker run -d --link selenium-hub:hub hvdbs/docker-node-firefox-10:latest
+docker run -d --link selenium-hub:hub hvdbs/docker-node-firefox-10:latest
+docker run -d --link selenium-hub:hub hvdbs/docker-node-firefox-10:latest
+docker run -d --link selenium-hub:hub hvdbs/docker-node-firefox-10:latest
+docker run -d --link selenium-hub:hub hvdbs/docker-node-firefox-10:latest
