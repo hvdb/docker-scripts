@@ -1,2 +1,2 @@
-docker rm $(docker ps -a -q -f)
-docker rmi $(docker images -q -f)
+docker rm -f $(docker ps -a -q)
+docker rmi -f $(docker images -q)
